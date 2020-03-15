@@ -1,0 +1,324 @@
+body {
+	font-family:  'Rubik', sans-serif;
+	background-color:  #131313;
+	color:  white;
+	margin:  10%;
+}
+
+a {
+	text-decoration:  none;
+}
+
+.maincontent {
+	background-color:  white;
+	color:  black;
+	margin-top:  25px;
+	padding:  15px 15px 15px 15px;
+	border-radius:  20px;
+}
+
+.logo {
+	height:  150px;
+	width:  150px;
+	border-radius:  50%;
+}
+
+h1 {
+	font-size:  25px;
+	font-weight:  800;
+	margin-bottom:  -10px;
+}
+
+h3 {
+	font-size:  17px;
+	font-weight:  500;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: 800;
+	color: #4a4a4a;
+	line-height: 1.4;
+	margin-bottom: 2px;
+}
+
+.button {
+	display: block;
+	margin: 0;
+	border: 0;
+	margin-top: 9px;
+	margin-bottom: 28px;
+	width: 100%;
+}
+
+.button-inner {
+	margin-right: -20px;
+	margin-left: -20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 12px;
+	width: 100%;
+	display: block;
+	margin-top: 0;
+	margin-bottom: -12px;
+	text-decoration: none!important;
+	margin-top: 0
+}
+
+.applications-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #ff416c, #ff4b2b) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.back-button {
+	margin-top:  25px;
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #ff416c, #ff4b2b) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.cydia-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #af4901, #6d2800) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.github-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #30c381, #089e46) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.installer-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #79c4e8, #19a0ff) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.repo-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #ff416c, #ff4b2b) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.themes-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #79c4e8, #19a0ff) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.tweaks-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #30c381, #089e46) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.twitter-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #19a0ff, #79c4e8) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.widgets-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #667eea, #764ba2) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.zebra-button {
+	margin-left: 14px;
+	margin-right: 14px;
+	background: linear-gradient(90deg, #274060, #1B2845) !important;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 20px;
+	box-shadow: 2px 2px 40px -12px #999;
+	color: white !important;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+
+.tweak {
+	display: block;
+	margin-top: 9px;
+	margin-bottom: 28px;
+	width: 100%;
+}
+
+.tweak-item {
+	margin-right: 14px;
+	margin-left: 14px;
+	background-color: #ececec;
+	text-align: left;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 15px;
+	font-size: 15px;
+	color: #666;
+}
+
+.author-photo {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-right: 14px;
+	float: left;
+	display: inline-block;
+}
+
+.tweak-icon {
+	width: 50px;
+	height: 50px;
+	border-radius: 25%;
+	overflow: hidden;
+	margin-right: 14px;
+	float: left;
+	display: inline-block;
+}
+
+.tweak-version {
+	float: left;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.info-left {
+	float: left;
+	font-size: 15px;
+}
+
+.info-right {
+	float: right;
+	font-size: 15px;
+}
+
+.changes {
+	list-style:  none;
+}
+
+.screenshots {
+	display: block;
+	margin-top: 9px;
+	margin-bottom: 28px;
+	width: 100%;
+}
+
+.screenshot-item {
+	margin-right: 14px;
+	margin-left: 14px;
+	background-color: #ececec;
+	border-radius: 15px;
+	overflow: hidden;
+	display: block;
+	padding: 15px 15px;
+	font-size: 15px;
+	color: #666;
+}

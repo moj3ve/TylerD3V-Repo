@@ -1,0 +1,74 @@
+Package: xyz.tylerd3v.chronus
+Name: Chronus
+Version: 1.2
+Description: Minimal Widget for XenHTML
+Depiction: https://repo.tylerd3v.xyz/depictions/chronus.html
+Icon: https://repo.tylerd3v.xyz/img/widget.png
+Section: Widgets
+Author: TylerD3V <tylerd3v@gmail.com>
+Maintainer: TylerD3V <tylerd3v@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/Chronus.deb
+Size: 17968
+MD5sum: 5720c33b8cb0b92a1decb6a9f4a48185
+SHA256: 0b73dde8d0a30894a8b600901305759a27411f62461052405b049ddd1e6568d7
+
+Package: fun.tylerd3v.customsiribg
+Name: CustomSiriBG
+Version: 2.0
+Description: Use any image as a background for Siri!
+Depiction: https://repo.tylerd3v.xyz/depictions/customsiribg.html
+Icon: https://repo.tylerd3v.xyz/img/tweak.png
+Section: Tweaks
+Author: TylerD3V <tylerd3v@gmail.com>
+Maintainer: TylerD3V <tylerd3v@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/CustomSiriBG.deb
+Size: 20328
+MD5sum: a7a634c6efc200a117e51ccae35946db
+SHA256: d5c3948747f70daf7dd084855af00d99c580ac7c5252782254bc9bf96535bf1f
+
+Package: xyz.tylerd3v.customsounds13
+Name: CustomSounds13
+Version: 1.0.3
+Description: Customize System Sounds!
+Depiction: https://repo.tylerd3v.xyz/depictions/customsounds13.html
+Icon: https://repo.tylerd3v.xyz/img/tweak.png
+Section: Tweaks
+Author: TylerD3V <tylerd3v@gmail.com>
+Maintainer: TylerD3V <tylerd3v@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/CustomSounds13.deb
+Size: 2042968
+MD5sum: ac727fe88c0ad54de1e7b5c93e3c92b7
+SHA256: 15eeea7bbd82c9db0a76e2064064e59475191dea94d1d2029e1e9d08a975e250
+
+Package: fun.tylerd3v.modernize
+Name: Modernize
+Version: 2.1
+Description: Modernize Your iOS 11 and 12 Device!
+Depiction: https://repo.tylerd3v.xyz/depictions/modernize.html
+Icon: https://repo.tylerd3v.xyz/img/tweak.png
+Section: Tweaks
+Author: TylerD3V <tylerd3v@gmail.com>
+Maintainer: TylerD3V <tylerd3v@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/Modernize.deb
+Size: 295210
+MD5sum: fe5db3a4897ac37c26eb6ac4bdc5181a
+SHA256: 4240a9087a8389f69e88a2b0514050a6ae5f75f5e58e77118a8f2447b6517255
+
+Package: fun.tylerd3v.switchmode
+Name: SwitchMode
+Version: 1.1
+Description: Enter Safe Mode Using Ringer Switch!
+Depiction: https://repo.tylerd3v.xyz/depictions/switchmode.html
+Icon: https://repo.tylerd3v.xyz/img/tweak.png
+Section: Tweaks
+Author: TylerD3V <tylerd3v@gmail.com>
+Maintainer: TylerD3V <tylerd3v@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/SwitchMode.deb
+Size: 7420
+MD5sum: 5e31828587be6dde44973c82dbdc5363
+SHA256: e81b626e9a50b08210c8b7aab052c11c9ff64aa08fcd1b872e8a4d2bbc1fd646
